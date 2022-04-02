@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
-            android:name=".home"
+            android:name=".views.home"
             android:exported="false" />
         <activity
             android:name=".registrar"

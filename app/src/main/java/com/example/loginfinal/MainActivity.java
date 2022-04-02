@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.loginfinal.clases.Registro;
+import com.example.loginfinal.views.home;
 
 public class MainActivity extends AppCompatActivity {
     Button btnIniciar, btnRegistro;

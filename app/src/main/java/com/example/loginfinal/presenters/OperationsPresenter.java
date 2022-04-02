@@ -1,10 +1,9 @@
 package com.example.loginfinal.presenters;
 
 
-import com.example.loginfinal.home;
+import com.example.loginfinal.views.home;
 import com.example.loginfinal.interfaces.OperationsInterfacePresenter;
 import com.example.loginfinal.models.OperationsModel;
-import com.example.loginfinal.views.OperationsView;
 
 public class OperationsPresenter implements OperationsInterfacePresenter {
     private home view;
